@@ -66,6 +66,6 @@ Python notes for professionals: https://drive.proton.me/urls/J21CR8XP6M#cWEJzV62
 
 ### Social Engineering 
 
-**HANDBOOK FOR SOCIAL MEDIA INVESTIGATIONS** by Maltego : https://drive.proton.me/urls/E6D42KRPEC#JBbkr1fCMeGr
+Handbook for Social Media Investigations by Maltego : https://drive.proton.me/urls/E6D42KRPEC#JBbkr1fCMeGr
 
 Social Engineering TheScience of Human Hacking by Christopher Hadnagy https://drive.proton.me/urls/96Z5P7YR0R#NShSxq84g627
