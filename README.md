@@ -1,4 +1,4 @@
-# Books (mostly PDFs, some epubs)
+# Github
 
 ### AWS & Azure
 
@@ -14,6 +14,21 @@ AWS Penetration Testing: https://drive.proton.me/urls/Q7NX4J16CM#8tCBCuwFmQBx
 
 The Ultimate Guide to the Fundamentals of AWS: https://drive.proton.me/urls/P6ZHZVMAV8#BGOWuyAJ2Fr6
 
+### Incident Response 
+
+
+A Practical Example of Incident Response to a Network Based Attack by Gordon Fraser: [https://drive.proton.me/urls/KWKZ0WEDA0\#W3i9fYTFezer](https://drive.proton.me/urls/KWKZ0WEDA0#W3i9fYTFezer)
+
+Using Scripts to Exploit and Mitigate Risks by  Robert Rodriguez: [https://drive.proton.me/urls/FB0KFZ43C8\#W4QykP9BGrwP](https://drive.proton.me/urls/FB0KFZ43C8#W4QykP9BGrwP)
+
+### CompTIA
+
+CompTIA Network+ Review Guide Exam N10-007 Fourth Edition by  Jon Buhagiar: [https://drive.proton.me/urls/8CSN3167BC\#d6IfDg3MvlEr](https://drive.proton.me/urls/8CSN3167BC#d6IfDg3MvlEr)
+
+CompTIA Security+ Certification Study Guide by Ahmed F. Sheikh: [https://drive.proton.me/urls/CY72GAW5H0\#U6CbHB4UdhkF](https://drive.proton.me/urls/CY72GAW5H0#U6CbHB4UdhkF)
+
+CompTIA Security+ Certification Exam Objectives
+EXAM NUMBER: SY0-601: [https://drive.proton.me/urls/MCG02WV1SG\#b0mX3GB5npyX](https://drive.proton.me/urls/MCG02WV1SG#b0mX3GB5npyX)
 
 ### Darkweb
 
