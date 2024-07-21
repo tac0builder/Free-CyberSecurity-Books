@@ -13,12 +13,15 @@ AWS Penetration Testing.epub: https://drive.proton.me/urls/Q7NX4J16CM#8tCBCuwFmQ
 THE ULTIMATE GUIDE TO THE FUNDAMENTALS OF AWS.epub: https://drive.proton.me/urls/P6ZHZVMAV8#BGOWuyAJ2Fr6
 
 
+//
+
 Darkweb
 
 Andy_Greenberg_- Tracers_in_the_Dark.epub: https://drive.proton.me/urls/H3FZ353GTR#xy8PCGmqhu61
 
 Darknet Master_ Tor and Deep Web Secrets.pdf: https://drive.proton.me/urls/9X4YBG6BC4#i3q1XTxFrWde
 
+//
 
 Forensics
 
@@ -30,6 +33,9 @@ Hacking the Hacker - 2017 - Grimes.pdf: https://drive.proton.me/urls/F9BBDT8BXR#
 
 Hands on Hacking - 2020 - Hickey.pdf: https://drive.proton.me/urls/ZPB2SJ502W#yhv2yhOADW9Q
 
+//
+
+
 
 Linux
 
@@ -39,7 +45,7 @@ Linux_bible.epub: https://drive.proton.me/urls/4MVDVR678M#d9ZSVowfjnFz
 
 Kali_Linux.pdf: https://drive.proton.me/urls/Y8P8J9QZ8W#oXAdhLUU2o3W
 
-
+//
 
 Pemtesting
 
@@ -57,7 +63,7 @@ BurpSuite2021.pdf: https://drive.proton.me/urls/307N5798JG#POxfFd4FRt3e
 
 Cloud_AWS_Pentest__1709787622.pdf: https://drive.proton.me/urls/B7VRNEQS28#yNT7wlCbZNuO
 
-
+//
 
 Python
 
@@ -67,6 +73,7 @@ Ethical_hacking_python.pdf: https://drive.proton.me/urls/010EJDX0SR#39hVaeQuuCpM
 
 PythonNotesForProfessionals.pdf: https://drive.proton.me/urls/J21CR8XP6M#cWEJzV62Q5DU
 
+//
 
 Social Engineering 
 
